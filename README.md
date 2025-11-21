@@ -12,15 +12,15 @@ Também é abordada a estrutura em camadas do Django e o funcionamento geral do 
 
 🗂️ Banco de Dados, Models e Admin
 
-Criação de modelos para representar carros e marcas.
+- Criação de modelos para representar carros e marcas.
 
-Uso de ForeignKey para relacionar carros a suas respectivas marcas.
+- Uso de ForeignKey para relacionar carros a suas respectivas marcas.
 
-Execução de migrações para criação das tabelas.
+- Execução de migrações para criação das tabelas.
 
-Configuração do Django Admin para gerenciar registros de forma intuitiva.
+- Configuração do Django Admin para gerenciar registros de forma intuitiva.
 
-Ajustes adicionais no projeto para suportar novas funcionalidades.
+- Ajustes adicionais no projeto para suportar novas funcionalidades.
 
 🖼️ Armazenamento de Imagens
 
