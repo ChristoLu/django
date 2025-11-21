@@ -55,7 +55,7 @@ Foi feita a separação entre a visão administrativa (via Django Admin) e a vis
 - Pesquisas usando icontains (busca parcial).
 
 - Ordenação dinâmica usando order_by.
-- 
+  
 📝 Formulários e Cadastro
 
 O projeto implementa:
